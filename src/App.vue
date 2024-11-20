@@ -1,6 +1,6 @@
 <template>
     <h1>coucou {{firstName}}</h1>
-    <p>TEST OK</p>
+    <p>Tout est bon !</p>
 </template>
 
 <script setup>
