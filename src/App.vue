@@ -1,6 +1,6 @@
 <template>
     <h1>coucou {{firstName}}</h1>
-    <p>TEST sur develop</p>
+    <p>TEST OK</p>
 </template>
 
 <script setup>
